@@ -1,0 +1,6 @@
+"## Ignore these files" 
+/packages
+secret.js
+*.txt
+[Ll]og/
+[Ll]og*
